@@ -271,6 +271,7 @@ def main(league, time, standings, team, live, use12hour, players, output_format,
     - PPL: Primeira Liga
     - LLIGA: La Liga
     - SD: Segunda Division
+    - ECH: ???
     """
     global headers
     headers = {'X-Auth-Token': apikey}
